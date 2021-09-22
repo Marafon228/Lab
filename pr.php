@@ -3,9 +3,9 @@ switch ($_GET['Tovar'] [0])
 {
     case "Б":
         $sum = $_GET['K']*20;
-    case "K":
+    case "К":
         $sum = $_GET['K']*15;
-    case "M":
+    case "М":
         $sum = $_GET['K']*10;
 }
 if ($_GET['DK'] == "on")

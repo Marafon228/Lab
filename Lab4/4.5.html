@@ -1,5 +1,22 @@
 <html>
 <head>
+    <style>
+        .name{
+            margin-left: 29px;
+        }
+        .tele{
+            margin-left: 12px;
+        }
+        .mail{
+            margin-left: 21px;
+        }
+        .Vozrst{
+            margin-left: 5px;
+        }
+        .Area{
+
+        }
+    </style>
     <title>Форма</title>
 </head>
 <body>
@@ -7,14 +24,14 @@
 <i>Пожалуйста заполните форму. Обязательные поля обозначены*</i>
 <div>
     <fieldset><legend>Контактная информация</legend>
-        <p>Имя * <input class="name" type="text" name="name"></p>
-        <p>Телефон <input class="name" type="text" name="Tel"></p>
-        <p>Email * <input class="name" type="text" name="Mail"></p>
+        <p >Имя * <input class="name" type="text" name="name"></p>
+        <p>Телефон <input class="tele" type="text" name="Tel"></p>
+        <p>Email * <input class="mail" type="text" name="Mail"></p>
     </fieldset>
 </div>
 <div>
     <fieldset><legend>Персональная информация</legend>
-        <p>Возраст * <input class="name" type="text" name="Vozr"></p>
+        <p>Возраст * <input class="Vozrst" type="text" name="Vozr"></p>
         <p>Пол
         <select name="course" size="1">
             <option value="Faml"> Женцина </option>
@@ -22,7 +39,12 @@
             <option value="Anather">Другое</option>
         </select>
         </p>
-        <p>Укажите дополнительные качества<input class="name" type="text" name="Mail"></p>
+        <div><p>Перечислите личные качества
+            <textarea class="Area" type="text" name="Mail">
+            </textarea>
+        </p>
+        </div>
+
     </fieldset>
 </div>
 <div>

@@ -1,63 +1,108 @@
 <html>
 <head>
     <style>
-        .name{
-            margin-left: 29px;
+        .name {
+            margin-left: 56px;/* 29 */
         }
-        .tele{
-            margin-left: 12px;
-        }
-        .mail{
-            margin-left: 21px;
-        }
-        .Vozrst{
-            margin-left: 5px;
-        }
-        .Area{
 
+        .tele {
+            margin-left: 39px;
+        }
+
+        .mail {
+            margin-left: 48px;
+        }
+
+        .Vozrst {
+            margin-left: 32px;
+        }
+
+        .Area {
+            height: 90px;
+            margin-left: 100px;
+            width: 171px;
+
+        }
+
+        .P {
+            margin-left: 70px;/* 43 */
+            padding-right: 90px;
+        }
+
+        .red {
+            color: red;
+        }
+
+        .d {
+            position: absolute;
+
+        }
+
+        .text {
+
+            width: 100px;
+        }
+        .last {
+            width: calc(25% - 50px);
+            display: inline-block;
         }
     </style>
     <title>Форма</title>
 </head>
 <body>
 <h1>Форма заявки на работу в зоопарке</h1>
-<i>Пожалуйста заполните форму. Обязательные поля обозначены*</i>
+<i>Пожалуйста заполните форму. Обязательные поля обозначены
+    <p1 class="red">*</p1>
+</i>
 <div>
-    <fieldset><legend>Контактная информация</legend>
-        <p >Имя * <input class="name" type="text" name="name"></p>
+    <fieldset>
+        <legend>Контактная информация</legend>
+        <p>Имя
+            <p1 class="red">*</p1>
+            <input class="name" type="text" name="name"></p>
         <p>Телефон <input class="tele" type="text" name="Tel"></p>
-        <p>Email * <input class="mail" type="text" name="Mail"></p>
+        <p>Email
+            <p1 class="red">*</p1>
+            <input class="mail" type="text" name="Mail"></p>
     </fieldset>
 </div>
 <div>
-    <fieldset><legend>Персональная информация</legend>
-        <p>Возраст * <input class="Vozrst" type="text" name="Vozr"></p>
+    <fieldset>
+        <legend>Персональная информация</legend>
+        <p>Возраст
+            <p1 class="red">*</p1>
+            <input class="Vozrst" type="text" name="Vozr"></p>
         <p>Пол
-        <select name="course" size="1">
-            <option value="Faml"> Женцина </option>
-            <option value="Men">Мужчина</option>
-            <option value="Anather">Другое</option>
-        </select>
-        </p>
-        <div><p>Перечислите личные качества
-            <textarea class="Area" type="text" name="Mail">
-            </textarea>
-        </p>
-        </div>
+            <select class="P" name="course" size="1">
+                <option value="Faml"> Женцина</option>
+                <option value="Men">Мужчина</option>
+                <option value="Anather">Другое</option>
+            </select>
+        <div class="d">
 
+
+            <p class="text">Перечислите личные качества</div>
+        <textarea class="Area" type="text" name="Mail">
+            </textarea>
     </fieldset>
 </div>
 <div>
-    <fieldset><legend>Выберите ваших любимых животных</legend>
-        <div><input type="checkbox"><span>Зебра</span></div>
-        <div><input type="checkbox"><span>Зебра</span></div>
-        <div><input type="checkbox"><span>Зебра</span></div>
-        <div><input type="checkbox"><span>Зебра</span></div>
-        <div><input type="checkbox"><span>Зебра</span></div>
-        <div><input type="checkbox"><span>Зебра</span></div>
-        <div><input type="checkbox"><span>Зебра</span></div>
-        <div><input type="checkbox"><span>Зебра</span></div>
+    <fieldset>
+        <legend>Выберите ваших любимых животных</legend>
+        <div class="last"><input type="checkbox"><span>Зебра</span></div>
+        <div class="last"><input type="checkbox"><span>Зебра</span></div>
+        <div class="last"><input type="checkbox"><span>Зебра</span></div>
+        <div class="last"><input type="checkbox"><span>Зебра</span></div>
+        <div class="last"><input type="checkbox"><span>Зебра</span></div>
+        <div class="last"><input type="checkbox"><span>Зебра</span></div>
+        <div class="last"><input type="checkbox"><span>Зебра</span></div>
+        <div class="last"><input type="checkbox"><span>Зебра</span></div>
     </fieldset>
+</div>
+<br>
+<div>
+    <button>Отправить информацию</button>
+
 </div>
 </body>
 </html>

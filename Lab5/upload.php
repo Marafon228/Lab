@@ -19,8 +19,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     function resize($file, $type = 1, $rotate = null, $quality = null)
     {
         global $tmp_path;
-        $max_thumb_size = 200;
-        $max_size = 600;
+        $max_thumb_size = $_POST['max_thumb_size'];
+        $max_size = $_POST['max_size'];
         if ($quality == null)
             $quality = 75;
         if ($file['type'] == 'image/jpeg')
@@ -83,7 +83,15 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <br>
     <input type="text" name="file_rotate">
     <br>
-    <input type="submit" value="Загрузить" />
+    <input type="submit" value="Загрузить">
+    <br>
+    <label>Ограничение размера эскиза: </label>
+    <input type="text" name="max_thumb_size">
+    <br>
+    <label>Ограничение размера большого изображения: </label>
+    <input type="text" name="max_size">
+
+
 </form>
 </body>
 </html>

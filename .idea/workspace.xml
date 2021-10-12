@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f64625d-53d1-4726-8c57-c2574da8934e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lab5/Privetstvie.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/Reg.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab5/upload.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5/upload.php" afterDir="false" />
     </list>
@@ -26,8 +28,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab5" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\localhost\Lab\Lab5" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -38,11 +46,25 @@
       <option name="presentableId" value="Default" />
       <updated>1633936411394</updated>
       <workItem from="1633936412925" duration="35000" />
-      <workItem from="1633936449171" duration="4550000" />
+      <workItem from="1633936449171" duration="4768000" />
+      <workItem from="1634031033360" duration="54000" />
+      <workItem from="1634031089035" duration="4021000" />
     </task>
+    <task id="LOCAL-00001" summary="Zad">
+      <created>1633941334262</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633941334262</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Zad" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zad" />
   </component>
 </project>

@@ -41,10 +41,13 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             $w = $max_thumb_size;
         elseif ($type == 2)
             $w = $max_size;
-
+        if ($type == 1)
+            $h = $max_thumb_size;
+        elseif ($type == 2)
+            $h = $max_size;
         $dest = null;
-        if ($w_src > $w) {
-            $ratio = $w_src / $w;
+        if ($w_src > $w or $h_src > $h) {
+            $ratio = $w_src / $w or $h_src / $h ;
             $w_dest = round($w_src / $ratio);
             $h_dest = round($h_src / $ratio);
             $dest = imagecreatetruecolor($w_dest, $h_dest);

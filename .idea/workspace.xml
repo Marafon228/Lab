@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f64625d-53d1-4726-8c57-c2574da8934e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab5/Privetstvie.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/Reg.php" afterDir="false" />
+    <list default="true" id="b88d5b31-80db-4580-90b7-3bdfa3f0971e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab5/upload.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5/upload.php" afterDir="false" />
     </list>
@@ -18,8 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1zLnoPTSfRrFUcmDxMMLeTLezEH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1zRndeZHEva2So7xth9Gj77ADJz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,43 +27,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab5" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\OpenServer\domains\localhost\Lab\Lab5" />
-    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8f64625d-53d1-4726-8c57-c2574da8934e" name="Changes" comment="" />
-      <created>1633936411394</created>
+      <changelist id="b88d5b31-80db-4580-90b7-3bdfa3f0971e" name="Changes" comment="" />
+      <created>1634119857185</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1633936411394</updated>
-      <workItem from="1633936412925" duration="35000" />
-      <workItem from="1633936449171" duration="4768000" />
-      <workItem from="1634031033360" duration="54000" />
-      <workItem from="1634031089035" duration="4021000" />
+      <updated>1634119857185</updated>
+      <workItem from="1634119858420" duration="2176000" />
     </task>
-    <task id="LOCAL-00001" summary="Zad">
-      <created>1633941334262</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1633941334262</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zad" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zad" />
   </component>
 </project>

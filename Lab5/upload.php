@@ -31,6 +31,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             $source = imagecreatefromgif($file['tmp_name']);
         else
             return false;
+        $stamp = imagecreatefrompng('stamp.png');
         if ($rotate != null)
             $src = imagerotate($source, $rotate, 0);
         else
@@ -46,8 +47,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         elseif ($type == 2)
             $h = $max_size;
         $dest = null;
-        if ($w_src > $w or $h_src > $h) {
-            $ratio = $w_src / $w or $h_src / $h ;
+
+        if ($w_src > $w) {
+            $ratio = $w_src / $w;
             $w_dest = round($w_src / $ratio);
             $h_dest = round($h_src / $ratio);
             $dest = imagecreatetruecolor($w_dest, $h_dest);
@@ -55,13 +57,24 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             imagejpeg($dest, $tmp_path . $file['name'], $quality);
             imagedestroy($dest);
             imagedestroy($src);
+            //112
+
+            $marge_right = 10;
+            $marge_bottom = 10;
+            $sx = imagesx($stamp);
+            $sy = imagesy($stamp);
+            imagecopy($dest, $stamp, imagesx($dest) - $sx -
+                $marge_right, imagesy($dest) - $sy - $marge_bottom, 0, 0, imagesx($stamp), imagesy($stamp));
+
             return $file['name'];
         } else {
             imagejpeg($dest, $tmp_path . $file['name'], $quality);
             imagedestroy($src);
 
+
             return $file['name'];
         }
+
     }
     $_POST['file_rotate'] = isset($_POST['file_rotate']) ? $_POST['file_rotate']: null;
     $name = resize($_FILES['picture'], $_POST['file_type'], $_POST['file_rotate']);

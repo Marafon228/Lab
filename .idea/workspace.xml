@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="144dc092-1708-4ab0-a315-74ae2907b7e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/6.1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/6.10.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/6.2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/6.3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/6.4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/6.5.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/6.6.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/6.7.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/6.8.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/6.9.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/Zad1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/Zad2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/arr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/file1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/file2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/file3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7/mysql.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab6/6.7.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/6.7.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab6/Zad1.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/Zad1.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +46,8 @@
       <workItem from="1634278729158" duration="2428000" />
       <workItem from="1634289978557" duration="4579000" />
       <workItem from="1634541703151" duration="3459000" />
-      <workItem from="1634545213742" duration="853000" />
+      <workItem from="1634545213742" duration="1000000" />
+      <workItem from="1634635039961" duration="4246000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1634281176938</created>
@@ -66,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634294425361</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="6 cltkfnm lp">
+      <created>1634546159405</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634546159405</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +79,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="111" />
     <MESSAGE value="SS" />
-    <option name="LAST_COMMIT_MESSAGE" value="SS" />
+    <MESSAGE value="6 cltkfnm lp" />
+    <option name="LAST_COMMIT_MESSAGE" value="6 cltkfnm lp" />
   </component>
 </project>

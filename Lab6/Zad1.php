@@ -1,5 +1,9 @@
 <?php
-$h = fopen('https://moodle.ktk40.ru/mod/book/view.php?id=87&chapterid=41', 'r');
-echo $h;
+$h = fopen('Zad1.php', 'r');
+while (!feof ($h)) {
+    $content = fgetc($h);
+    echo $content, "<br>";
+}
+fclose($h);
 ?>
 

@@ -5,7 +5,6 @@
     <title>Работа с БД</title>
 </head>
 <body>
-
 <?php
 /* Пример 1
 $db = mysqli_connect("localhost", "sdenisov", "dq7M7Z", "sdenisov_firstbd");
@@ -15,7 +14,6 @@ echo $myrow['name'] .'<br />' ;
 echo $myrow['dol'] .'<br />' ;
 */
 ?>
-
 <?php
 /* Пример 2
 $db = mysqli_connect("localhost", "sdenisov", "dq7M7Z", "sdenisov_firstbd");

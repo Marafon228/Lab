@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a313519c-9c8c-4805-a196-ac43c4ed88af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab7/mysql_delete.php" afterDir="false" />
+    <list default="true" id="d9318b2d-ce04-49ec-b36e-1b7b156beb07" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lab8/BD.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/Form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/insert.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab6/Zad1.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/Zad1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab6/my_file.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/my_file.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1zqWe7d5xm4NCvFWcmhftODEjOK" />
+  <component name="ProjectId" id="1zrGVNu1IEV34B3WucnlnwOyAiz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,23 +30,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a313519c-9c8c-4805-a196-ac43c4ed88af" name="Changes" comment="" />
-      <created>1634876190865</created>
+      <changelist id="d9318b2d-ce04-49ec-b36e-1b7b156beb07" name="Changes" comment="" />
+      <created>1634898817501</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1634876190865</updated>
-      <workItem from="1634876192180" duration="57000" />
-      <workItem from="1634876251586" duration="571000" />
-      <workItem from="1634877498571" duration="1399000" />
+      <updated>1634898817501</updated>
+      <workItem from="1634898819093" duration="517000" />
     </task>
     <servers />
   </component>

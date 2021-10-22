@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="144dc092-1708-4ab0-a315-74ae2907b7e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab7/mysql_form.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/mysql_formUP.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/mysql_insert.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/mysql_update.php" afterDir="false" />
+    <list default="true" id="a313519c-9c8c-4805-a196-ac43c4ed88af" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lab7/mysql_delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab7/mysql.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab7/mysql.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab6/Zad1.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/Zad1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab6/my_file.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/my_file.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,72 +22,36 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1zWzeOdUETDNueDuj3MI0t8OOIi" />
+  <component name="ProjectId" id="1zqWe7d5xm4NCvFWcmhftODEjOK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="144dc092-1708-4ab0-a315-74ae2907b7e5" name="Changes" comment="" />
-      <created>1634278727889</created>
+      <changelist id="a313519c-9c8c-4805-a196-ac43c4ed88af" name="Changes" comment="" />
+      <created>1634876190865</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1634278727889</updated>
-      <workItem from="1634278729158" duration="2428000" />
-      <workItem from="1634289978557" duration="4579000" />
-      <workItem from="1634541703151" duration="3459000" />
-      <workItem from="1634545213742" duration="1000000" />
-      <workItem from="1634635039961" duration="4499000" />
-      <workItem from="1634721881715" duration="4892000" />
+      <updated>1634876190865</updated>
+      <workItem from="1634876192180" duration="57000" />
+      <workItem from="1634876251586" duration="571000" />
+      <workItem from="1634877498571" duration="1399000" />
     </task>
-    <task id="LOCAL-00001" summary="111">
-      <created>1634281176938</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1634281176938</updated>
-    </task>
-    <task id="LOCAL-00002" summary="SS">
-      <created>1634294425361</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1634294425361</updated>
-    </task>
-    <task id="LOCAL-00003" summary="6 cltkfnm lp">
-      <created>1634546159405</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1634546159405</updated>
-    </task>
-    <task id="LOCAL-00004" summary="7">
-      <created>1634640680182</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1634640680182</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="111" />
-    <MESSAGE value="SS" />
-    <MESSAGE value="6 cltkfnm lp" />
-    <MESSAGE value="7" />
-    <option name="LAST_COMMIT_MESSAGE" value="7" />
   </component>
 </project>

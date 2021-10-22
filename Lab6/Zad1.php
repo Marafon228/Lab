@@ -1,9 +1,7 @@
 <?php
-$h = fopen('Zad1.php', 'r');
-while (!feof ($h)) {
-    $content = fgetc($h);
-    echo $content, "<br>";
-}
-fclose($h);
+$file = 'Zad1.php';
+$current = file_get_contents($file);
+file_put_contents($file, $current);
+$d = filesize ('Zad1.php');
+echo $d;
 ?>
-

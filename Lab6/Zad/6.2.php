@@ -13,9 +13,9 @@ ini_set('display_startup_errors', true);
 <body>
 <h1>
     <?php
-    $x = array(array("Tom", "Alice"), array("Bob", "Kate"));
-    file_put_contents('my_file.html', json_encode($x) );
-    echo $a=file_get_contents('my_file.html')
+    $x = array(array("Anime", "Lol"), array("Ara", "Ara"));
+    file_put_contents('file.html', json_encode($x) );
+    echo $a=file_get_contents('file.html')
 
     ?>
 </h1>

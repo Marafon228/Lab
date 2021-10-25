@@ -13,13 +13,13 @@ ini_set('display_startup_errors', true);
 <body>
 <h1>
     <?php
-    $file_1 = file_get_contents('file_1');
-    $file_2 = file_get_contents('file_2');
-    $file_1_1 = explode("\r", $file_1);
-    $file_2_2 = explode("\r", $file_2);
-    $odin = array_intersect($file_1_1,$file_2_2);
-    $neodin = array_diff($file_1_1, $file_2_2);
-    $neodindva = array_diff($file_2_2, $file_1_1);
+    $file1 = file_get_contents('file_1');
+    $file2 = file_get_contents('file_2');
+    $file1_1 = explode("\n", $file1);
+    $file2_2 = explode("\n", $file2);
+    $odin = array_intersect($file1_1,$file2_2);
+    $neodin = array_diff($file1_1, $file2_2);
+    $neodindva = array_diff($file2_2, $file1_1);
     ?>
     <ol>
         <li><?php    foreach ($odin as $item) {

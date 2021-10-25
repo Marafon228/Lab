@@ -1,4 +1,0 @@
-uilouiuoiuo
-uiououio
-uoiuiouio
-uiouoiuo

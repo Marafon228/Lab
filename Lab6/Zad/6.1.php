@@ -13,8 +13,8 @@ ini_set('display_startup_errors', true);
 <body>
 <h1>
     <?php
-    echo $a = file_get_contents('6_laba.php');
-    file_put_contents('my_file.html', $a.'sadad');
+    echo $a = file_get_contents('Zad1.php');
+    file_put_contents('file.html', $a.'sadad');
     ?>
 </h1>
 </body>

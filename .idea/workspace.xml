@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a313519c-9c8c-4805-a196-ac43c4ed88af" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab7/mysql_delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab7/mysql_delete.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab7/mysql_update.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab7/mysql_update.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,10 +44,23 @@
       <workItem from="1634876192180" duration="57000" />
       <workItem from="1634876251586" duration="571000" />
       <workItem from="1634877498571" duration="1399000" />
+      <workItem from="1635143820255" duration="591000" />
     </task>
+    <task id="LOCAL-00001" summary="Исправил ошибки">
+      <created>1635073336169</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635073336169</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Исправил ошибки" />
+    <option name="LAST_COMMIT_MESSAGE" value="Исправил ошибки" />
   </component>
 </project>

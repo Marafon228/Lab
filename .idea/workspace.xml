@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d64a572a-c626-4891-b5c1-57cb68275a88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab10/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11/bd.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11/reg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11/save_user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11/testreg.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab10/10.2.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab10/10.2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab10/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab10/edit.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +30,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\192.168.10.81\sdenisov\public_html\sdenisov-labs.ktk.ru" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -42,7 +51,7 @@
       <workItem from="1635501065600" duration="3218000" />
       <workItem from="1636960891585" duration="4414000" />
       <workItem from="1637054414106" duration="1192000" />
-      <workItem from="1637313909036" duration="1753000" />
+      <workItem from="1637313909036" duration="4803000" />
     </task>
     <task id="LOCAL-00001" summary="Отчёт">
       <created>1635490824070</created>
@@ -58,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635504294639</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Доделал">
+      <created>1637315691596</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1637315691596</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,6 +83,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Отчёт" />
     <MESSAGE value="10" />
-    <option name="LAST_COMMIT_MESSAGE" value="10" />
+    <MESSAGE value="Доделал" />
+    <option name="LAST_COMMIT_MESSAGE" value="Доделал" />
   </component>
 </project>

@@ -9,7 +9,7 @@ require_once 'connection.php'; // подключаем скрипт
 // подключаемся к серверу
 $link = mysqli_connect($host, $user, $password, $database)
 or die("Ошибка " . mysqli_error($link));
-/*
+
 // если запрос POST
 if(isset($_POST['name']) && isset($_POST['company']) && isset($_POST['id'])){
 
@@ -17,13 +17,12 @@ if(isset($_POST['name']) && isset($_POST['company']) && isset($_POST['id'])){
     $name = htmlentities(mysqli_real_escape_string($link, $_POST['name']));
     $company = htmlentities(mysqli_real_escape_string($link, $_POST['company']));
 
-    $query ="UPDATE tovars SET name='$name', company='$company' WHERE id='$id'";
+    $query ="UPDATE `phones` SET name='$name', company='$company' WHERE id='$id'";
     $result = mysqli_query($link, $query) or die("Ошибка " . mysqli_error($link));
 
     if($result)
         echo "<span style='color:blue;'>Данные обновлены</span>";
 }
-*/
 
 // если запрос GET
 if(isset($_GET['id']))
@@ -31,7 +30,7 @@ if(isset($_GET['id']))
     $id = htmlentities(mysqli_real_escape_string($link, $_GET['id']));
 
     // создание строки запроса
-    $query ="SELECT * FROM tovars WHERE id = '$id'";
+    $query ="SELECT * FROM `phones` WHERE id = '$id'";
     // выполняем запрос
     $result = mysqli_query($link, $query) or die("Ошибка " . mysqli_error($link));
     //если в запросе более нуля строк
@@ -54,7 +53,6 @@ if(isset($_GET['id']))
         mysqli_free_result($result);
     }
 }
-
 // закрываем подключение
 mysqli_close($link);
 ?>

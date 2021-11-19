@@ -6,7 +6,7 @@ $link = mysqli_connect($host, $user, $password, $database)
 or die("Ошибка " . mysqli_error($link));
 
 // выполняем операции с базой данных
-$query ="SELECT * FROM phones";
+$query ="SELECT * FROM `phones`";
 $result = mysqli_query($link, $query) or die("Ошибка " . mysqli_error($link));
 if($result)
 {

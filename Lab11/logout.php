@@ -3,6 +3,6 @@ session_start();
 
 unset($_SESSION['login'], $_SESSION['id']);
 
-header('Locaiton: index.php');
+header('Locaiton: Lab11/index.php');
 exit;
 ?>

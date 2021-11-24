@@ -1,8 +1,14 @@
 <?php
+
 session_start();
+if (isset($_SESSION['city'])) {
+    unset($_SESSION['city']);
+}
+if (isset($_SESSION['age'])) {
+    unset($_SESSION['age']);
+}
 
-unset($_SESSION['count']);
-
-header('Locaiton: Lab12/index.php');
+header('Location: /index2.php');
 exit;
+
 ?>

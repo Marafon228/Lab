@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d64a572a-c626-4891-b5c1-57cb68275a88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab12/bd.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab12/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab12/logout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab12/reg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab12/save_user.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab12/testreg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab13/session.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab13/session_1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab13/logout.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab13/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab13/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab13/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab13/test.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +51,8 @@
       <workItem from="1637054414106" duration="1192000" />
       <workItem from="1637313909036" duration="4985000" />
       <workItem from="1637565356459" duration="4321000" />
-      <workItem from="1637659073667" duration="4976000" />
+      <workItem from="1637659073667" duration="5208000" />
+      <workItem from="1637745895399" duration="2166000" />
     </task>
     <task id="LOCAL-00001" summary="Отчёт">
       <created>1635490824070</created>
@@ -93,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637570289568</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="13">
+      <created>1637664532673</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1637664532673</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +108,7 @@
     <MESSAGE value="Доделал" />
     <MESSAGE value="11" />
     <MESSAGE value="12" />
-    <option name="LAST_COMMIT_MESSAGE" value="12" />
+    <MESSAGE value="13" />
+    <option name="LAST_COMMIT_MESSAGE" value="13" />
   </component>
 </project>

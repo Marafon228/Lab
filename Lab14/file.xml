@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<yslugi>
+  <ysluga1>
+	<id>id1</id>
+<img><IMG src="images/img1.jpg"/></img>
+	<title>ђемонт подвески автомобилЯ</title>
+	<info>‡амена узлов подвески</info>
+  </ysluga1>
+  <ysluga2>
+	<id>id2</id>
+	<img><IMG src="images/img1.jpg"/></img>
+	<title>ђемонт выхлопной системы</title>
+	<info> ‡амена прокладок коллектора, удаление катализатора автомобилЯ,замена прокладок и колец</info>
+  </ysluga2>
+</yslugi>

@@ -1,6 +1,6 @@
 <?php
 
-require './Session.php';
+require './session.php';
 
 if (!empty($_REQUEST['cityname']) && !empty($_REQUEST['age'])) {
     $session = new Session;

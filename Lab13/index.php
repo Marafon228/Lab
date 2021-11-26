@@ -1,6 +1,6 @@
 <?php
 
-require './Session.php';
+require './session.php';
 
 if (!empty($_REQUEST['countryname'])) {
     $session = new Session;

@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d64a572a-c626-4891-b5c1-57cb68275a88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab13/13.4.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab13/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab13/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab13/index2.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab13/index2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab13/session.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab13/session.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,8 @@
       <workItem from="1637313909036" duration="4985000" />
       <workItem from="1637565356459" duration="4321000" />
       <workItem from="1637659073667" duration="5208000" />
-      <workItem from="1637745895399" duration="4838000" />
+      <workItem from="1637745895399" duration="5036000" />
+      <workItem from="1637906698012" duration="322000" />
     </task>
     <task id="LOCAL-00001" summary="Отчёт">
       <created>1635490824070</created>
@@ -102,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637748238293</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="new 13 2">
+      <created>1637750983287</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1637750983287</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +125,7 @@
     <MESSAGE value="12" />
     <MESSAGE value="13" />
     <MESSAGE value="new 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="new 13" />
+    <MESSAGE value="new 13 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="new 13 2" />
   </component>
 </project>

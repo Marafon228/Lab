@@ -1,119 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d64a572a-c626-4891-b5c1-57cb68275a88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab14/about-us.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/admin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/admin/admin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/contacts-us.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/images/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/images/car1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/images/car2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/images/car3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/images/car4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/images/car5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/images/car6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/images/car7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/images/dot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/images/h2-long.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/images/h2-small.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/images/header-bg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/images/links.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/images/logo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/images/search.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/images/shell-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/images/sls.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/images/thumb1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/images/thumb2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/images/thumb3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/images/thumb4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/images/thumb5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/images/thumb6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/images/thumb7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/images/thumb8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/images/transparent-frame.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/images/yellow-arr.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/db.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/file.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/gallery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/ie6.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/1page-img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/2page-img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/2page-img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/2page-img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/2page-img4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/3page-img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/3page-img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/3page-img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/3page-img4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/4page-img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/arrow.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/arrow1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/border-bot.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/border-top.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/border-top1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/box1-bot.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/box1-bot1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/button-left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/button-left1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/button-right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/button-right1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/button-tail.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/button-tail1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/divider.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/footer-nav-left.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/footer-nav-right.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/footer-nav-tail.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/footer-tail.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/header-img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/header-tail.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/icon1-act.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/icon1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/icon2-act.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/icon2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/icon3-act.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/icon3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/left-bot-corner.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/left-bot-corner1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/left-top-corner.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/logo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/logo_.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/nav-act.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/nav-arrow.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/nav-left.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/nav-right.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/nav-tail.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/right-bot-corner.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/right-bot-corner1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/right-top-corner.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/spacer.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/tail-top.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/ysluga1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/ysluga2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/images/ysluga3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/js/Myriad_Pro_400.font.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/js/Myriad_Pro_600.font.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/js/NewsGoth_BT_400.font.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/js/NewsGoth_BT_700.font.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/js/NewsGoth_Dm_BT_400.font.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/js/cufon-replace.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/js/cufon-yui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/js/ie_png.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/js/jquery-1.3.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/js/jquery-1.4.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/js/jquery-func.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/polzovatel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/registracia.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/sitemap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab14/uslugy.html" afterDir="false" />
+    <list default="true" id="d0e9c079-eb5e-4aac-8f83-ab420829c45d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lab15/about-us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/admin/admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/contacts-us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/images/car1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/images/car2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/images/car3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/images/car4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/images/car5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/images/car6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/images/car7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/images/dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/images/h2-long.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/images/h2-small.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/images/header-bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/images/links.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/images/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/images/search.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/images/shell-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/images/sls.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/images/thumb1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/images/thumb2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/images/thumb3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/images/thumb4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/images/thumb5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/images/thumb6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/images/thumb7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/images/thumb8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/images/transparent-frame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/images/yellow-arr.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/file.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/gallery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/ie6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/1page-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/2page-img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/2page-img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/2page-img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/2page-img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/3page-img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/3page-img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/3page-img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/3page-img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/4page-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/arrow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/arrow1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/border-bot.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/border-top.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/border-top1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/box1-bot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/box1-bot1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/button-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/button-left1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/button-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/button-right1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/button-tail.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/button-tail1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/divider.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/footer-nav-left.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/footer-nav-right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/footer-nav-tail.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/footer-tail.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/header-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/header-tail.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/icon1-act.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/icon1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/icon2-act.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/icon2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/icon3-act.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/icon3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/left-bot-corner.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/left-bot-corner1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/left-top-corner.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/logo_.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/nav-act.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/nav-arrow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/nav-left.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/nav-right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/nav-tail.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/right-bot-corner.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/right-bot-corner1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/right-top-corner.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/spacer.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/tail-top.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/ysluga1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/ysluga2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/images/ysluga3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/js/Myriad_Pro_400.font.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/js/Myriad_Pro_600.font.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/js/NewsGoth_BT_400.font.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/js/NewsGoth_BT_700.font.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/js/NewsGoth_Dm_BT_400.font.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/js/cufon-replace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/js/cufon-yui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/js/ie_png.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/js/jquery-1.3.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/js/jquery-1.4.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/js/jquery-func.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/polzovatel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/registracia.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/sitemap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab15/uslugy.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab14/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab14/gallery.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab14/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab14/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,136 +128,50 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Lab10/10.1.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Lab10/10.2.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Lab10/edit.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Lab10/connection.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-  </component>
-  <component name="ProjectId" id="20AVGq4mwLWKrA9AD7t89WcAytn" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="21dHnqDQzOtrtw8Cvhi3QxiSDpI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab12" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab15" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="\\192.168.10.81\sdenisov\public_html\sdenisov-labs.ktk.ru\Lab12" />
-      <recent name="\\192.168.10.81\sdenisov\public_html\sdenisov-labs.ktk.ru" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="\\192.168.10.81\sdenisov\public_html\sdenisov-labs.ktk.ru" />
+      <recent name="\\192.168.10.81\sdenisov\public_html\sdenisov-labs.ktk.ru\Lab15" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d64a572a-c626-4891-b5c1-57cb68275a88" name="Changes" comment="" />
-      <created>1635487287490</created>
+      <changelist id="d0e9c079-eb5e-4aac-8f83-ab420829c45d" name="Changes" comment="" />
+      <created>1638264215002</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1635487287490</updated>
-      <workItem from="1635487288739" duration="3373000" />
-      <workItem from="1635501065600" duration="3218000" />
-      <workItem from="1636960891585" duration="4414000" />
-      <workItem from="1637054414106" duration="1192000" />
-      <workItem from="1637313909036" duration="4985000" />
-      <workItem from="1637565356459" duration="4321000" />
-      <workItem from="1637659073667" duration="5208000" />
-      <workItem from="1637745895399" duration="5036000" />
-      <workItem from="1637906698012" duration="2246000" />
-      <workItem from="1637919791138" duration="1822000" />
+      <updated>1638264215002</updated>
+      <workItem from="1638264216893" duration="2504000" />
+      <workItem from="1638354188573" duration="1188000" />
+      <workItem from="1638511678587" duration="2656000" />
     </task>
-    <task id="LOCAL-00001" summary="Отчёт">
-      <created>1635490824070</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1635490824070</updated>
-    </task>
-    <task id="LOCAL-00002" summary="10">
-      <created>1635504294639</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1635504294639</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Доделал">
-      <created>1637315691596</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1637315691596</updated>
-    </task>
-    <task id="LOCAL-00004" summary="11">
-      <created>1637318938038</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1637318938038</updated>
-    </task>
-    <task id="LOCAL-00005" summary="12">
-      <created>1637570289568</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1637570289568</updated>
-    </task>
-    <task id="LOCAL-00006" summary="13">
-      <created>1637664532673</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1637664532673</updated>
-    </task>
-    <task id="LOCAL-00007" summary="new 13">
-      <created>1637748238293</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1637748238293</updated>
-    </task>
-    <task id="LOCAL-00008" summary="new 13 2">
-      <created>1637750983287</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1637750983287</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Доделал">
-      <created>1637907039216</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1637907039216</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Отчёт" />
-    <MESSAGE value="10" />
-    <MESSAGE value="11" />
-    <MESSAGE value="12" />
-    <MESSAGE value="13" />
-    <MESSAGE value="new 13" />
-    <MESSAGE value="new 13 2" />
-    <MESSAGE value="Доделал" />
-    <option name="LAST_COMMIT_MESSAGE" value="Доделал" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
